@@ -1,9 +1,0 @@
-{
-  "name": "jarvis-assistant",
-  "version": "1.0.0",
-  "description": "J.A.R.V.I.S Personal AI Assistant",
-  "private": true,
-  "engines": {
-    "node": "18.x"
-  }
-}
